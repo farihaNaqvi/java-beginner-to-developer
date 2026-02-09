@@ -24,3 +24,14 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day01_basics/`
+
+## Day 2 – Control Flow & Decision Making
+
+**Topics covered:**
+- if / else conditions
+- Logical operators (AND, OR)
+- switch statement
+- Real-world business logic examples
+
+**Code location:**
+- `src/day02_control_flow/`
