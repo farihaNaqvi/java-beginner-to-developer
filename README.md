@@ -35,3 +35,14 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day02_control_flow/`
+
+## Day 3 – Loops & Iteration
+
+**Topics covered:**
+- for loop
+- while loop
+- do-while loop
+- Loop-based logic problems
+
+**Code location:**
+- `src/day03_loops/`
