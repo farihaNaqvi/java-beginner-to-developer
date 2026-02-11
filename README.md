@@ -46,3 +46,13 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day03_loops/`
+
+## Day 4 – Methods & Code Reusability
+
+**Topics covered:**
+- Creating custom methods
+- Parameters and return types
+- Writing reusable business logic
+
+**Code location:**
+- `src/day04_methods/`
