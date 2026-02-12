@@ -1,3 +1,5 @@
+package day05_arrays;
+
 /**
  * Day 5 – Arrays
  *
