@@ -32,12 +32,6 @@ public class ArrayLogic {
         System.out.println("First element: " + numbers[0]);
         System.out.println("Last element: " + numbers[4]);
         
-        // Iterating through array using loop
-        System.out.println("\nAll elements:");
-        for (int i = 0; i < numbers.length; i++) {
-            System.out.println("Index " + i + ": " + numbers[i]);
-        }
-        
         // Array of Strings (object type)
         String[] fruits = new String[3];
         fruits[0] = "Apple";
