@@ -56,3 +56,15 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day04_methods/`
+
+## Day 5 – Arrays & Iteration
+
+**Topics covered:**
+- Array declaration and initialization
+- Accessing array elements
+- Iterating through arrays
+- Multi-dimensional arrays
+- Common array operations
+
+**Code location:**
+- `src/day05_arrays/`
