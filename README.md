@@ -68,3 +68,14 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day05_arrays/`
+
+## Day 6 – OOP Basics (Classes & Objects)
+
+**Topics covered:**
+- Class and object creation
+- Constructors
+- Instance variables
+- Basic object behavior modeling
+
+**Code location:**
+- `src/day06_oop_basics/`
