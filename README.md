@@ -79,3 +79,14 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day06_oop_basics/`
+
+## Day 7 – Encapsulation & Access Modifiers
+
+**Topics covered:**
+- Data hiding using private variables
+- Getters and setters
+- Controlled access to object state
+- Access modifiers (private, public)
+
+**Code location:**
+- `src/day07_encapsulation/`
