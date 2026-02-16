@@ -101,3 +101,15 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day08_inheritance/`
+
+## Day 9 – Polymorphism
+
+**Topics covered:**
+- Method overloading
+- Method overriding with polymorphic behavior
+- Runtime polymorphism using interfaces
+- Upcasting and downcasting
+- Polymorphic method calls
+
+**Code location:**
+- `src/day09_polymorphism/`
