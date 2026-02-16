@@ -90,3 +90,14 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day07_encapsulation/`
+
+## Day 8 – Inheritance
+
+**Topics covered:**
+- extends keyword
+- super constructor
+- Method overriding
+- Code reuse through class hierarchy
+
+**Code location:**
+- `src/day08_inheritance/`
