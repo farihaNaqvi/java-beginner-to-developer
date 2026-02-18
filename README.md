@@ -113,3 +113,17 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day09_polymorphism/`
+
+## Day 10 – Abstraction
+
+**Topics covered:**
+- Abstract classes and abstract methods
+- Difference between abstraction and inheritance
+- Method overriding in abstract classes
+- Runtime polymorphism using abstract classes
+- Concrete methods inside abstract classes
+- Real-world abstraction example (Bank system)
+
+**Code location:**
+
+- `src/day10_abstraction/`
