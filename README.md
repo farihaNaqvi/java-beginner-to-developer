@@ -127,3 +127,16 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day10_abstraction/`
+
+## Day 11 – Interfaces
+
+**Topics covered:**
+- Introduction to interfaces
+- Implementing interfaces using implements
+- Runtime polymorphism with interfaces
+- Multiple inheritance using interfaces
+- Real-world payment system example
+
+**Code location:**
+
+- `src/day11_interfaces/`
