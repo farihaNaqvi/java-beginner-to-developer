@@ -140,3 +140,17 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day11_interfaces/`
+
+## Day 12 – Exception Handling
+
+**Topics covered:**
+- try, catch, and finally blocks
+- Handling multiple exceptions
+- Understanding exception hierarchy
+- Creating custom exceptions
+- Using throw and throws
+- Real-world bank withdrawal example
+
+**Code location:**
+
+- `src/day12_exceptionhandling/`
