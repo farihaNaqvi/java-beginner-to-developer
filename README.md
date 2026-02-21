@@ -154,3 +154,18 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day12_exceptionhandling/`
+
+## Day 13 – Collections Framework (Part 1)
+
+**Topics covered:**
+
+- Introduction to Java Collections Framework
+- Working with ArrayList
+- Working with LinkedList
+- Using HashSet for unique elements
+- Using HashMap for key-value storage
+- Storing custom objects in collections
+
+**Code location:**
+
+- `src/day13_collections/`
