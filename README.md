@@ -155,6 +155,7 @@ developer-level problem solving and system thinking.
 
 - `src/day12_exceptionhandling/`
 
+
 ## Day 13 – Collections Framework (Part 1)
 
 **Topics covered:**
@@ -169,3 +170,17 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day13_collections/`
+
+## Day 14 – Collections Framework (Advanced)
+
+**Topics covered:**
+
+- Using Iterator for traversal
+- Implementing Comparable for natural sorting
+- Using Comparator for custom sorting
+- Sorting collections with Collections.sort()
+- Working with TreeSet for automatic sorting
+
+**Code location:**
+
+- `src/day14_collections_advanced/`
