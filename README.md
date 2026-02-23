@@ -184,3 +184,18 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day14_collections_advanced/`
+
+## Day 15 – File Handling (I/O)
+
+**Topics covered:**
+
+- Creating files using File class
+- Writing data using FileWriter
+- Reading data using FileReader
+- BufferedReader and BufferedWriter usage
+- Reading files line by line
+- Appending logs to a file
+
+**Code location:**
+
+-`src/day15_filehandling/`
