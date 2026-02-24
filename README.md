@@ -199,3 +199,19 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 -`src/day15_filehandling/`
+
+## Day 16 – Multithreading (Basics)
+
+**Topics covered:**
+
+- Creating threads using Thread class
+- Creating threads using Runnable interface
+- Using sleep() method
+- Understanding thread lifecycle basics
+- Synchronization using synchronized keyword
+- Preventing race conditions
+- Using join() method
+
+**Code location:**
+
+- `src/day16_multithreading/`
