@@ -215,3 +215,18 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day16_multithreading/`
+
+## Day 17 – Java 8 Features (Lambda & Streams)
+
+**Topics covered:**
+
+- Lambda expressions
+- Functional interfaces
+- Method references
+- Streams API
+- Filtering and mapping collections
+- Using forEach with streams
+
+**Code location:**
+
+- `src/day17_java8_features/`
