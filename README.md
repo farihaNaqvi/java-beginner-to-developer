@@ -230,3 +230,17 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day17_java8_features/`
+
+## Day 18 – JDBC (Database Connectivity)
+
+**Topics covered:**
+
+- Connecting to MySQL using JDBC
+- Creating tables using Statement
+- Inserting data using PreparedStatement
+- Retrieving data using ResultSet
+- Updating records in database
+- Using try-with-resources for resource management
+
+**Code location:**
+- `src/day18_jdbc/`
