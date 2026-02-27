@@ -244,3 +244,17 @@ developer-level problem solving and system thinking.
 
 **Code location:**
 - `src/day18_jdbc/`
+
+## Day 19 – JDBC Mini CRUD Project
+
+**Topics covered:**
+
+- Building a console-based CRUD application
+- Implementing DAO pattern
+- Performing Insert, Select, Update, and Delete operations
+- Using PreparedStatement for secure queries
+- Structuring a real backend-style project
+
+**Code location:**
+
+- `src/day19_jdbc_crud/`
