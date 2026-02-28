@@ -258,3 +258,18 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `src/day19_jdbc_crud/`
+
+## Day 20 – Introduction to Spring Boot
+
+**Topics covered:**
+
+- Understanding Spring Boot architecture
+- Creating a Spring Boot project using Spring Initializr
+- Building a REST controller
+- Creating GET endpoints
+- Running embedded Tomcat server
+- Testing REST APIs in browser
+
+**Code location:**
+
+- `day20_springboot/`
