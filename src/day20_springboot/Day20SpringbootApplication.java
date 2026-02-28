@@ -1,4 +1,4 @@
-package com.example.day20_springboot;
+package day20_springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
