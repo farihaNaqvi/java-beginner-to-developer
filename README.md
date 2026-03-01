@@ -273,3 +273,17 @@ developer-level problem solving and system thinking.
 **Code location:**
 
 - `day20_springboot/`
+
+##Day 21 – Spring Boot CRUD API
+
+**Topics covered:**
+
+- Creating a Spring Boot CRUD application
+- Connecting Spring Boot with MySQL
+- Using Spring Data JPA
+- Implementing layered architecture (Controller, Service, Repository)
+- Building RESTful endpoints
+
+**Code location:**
+
+-`src/day21_springboot_crud/`
